@@ -1,6 +1,4 @@
 # Swapil
-Develop a web application using React framework with Typescript as the programming language, based on StarWars API https://swapi.co/.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
